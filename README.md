@@ -1,7 +1,7 @@
 
 
 <h2>Hey there! I'm 鄭宇辰 Dan</h2>
-![per_web](https://user-images.githubusercontent.com/67851555/218065093-5de81cbe-0ece-4259-82d4-f186339c2af4.jpg)
+![per_web](https://user-images.githubusercontent.com/67851555/218065391-21b507ab-88d2-424a-bf04-aa454b3431e5.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
