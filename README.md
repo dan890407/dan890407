@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @dan890407
-- 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning open domain question answering
-- 💞️ I’m looking to collaborate on (to be determined) 
-- 📫 How to reach me dan890407@gmail.com
-- 
-![LINE_ALBUM_S7 IEEE OSAKA CONFERENCE_230106](https://user-images.githubusercontent.com/67851555/218064489-7dd994e4-2af1-480b-9ce1-9b9fdd0248f6.jpg)
+
+
 <h2>Hey there! I'm 鄭宇辰 Dan</h2>
+![per_web](https://user-images.githubusercontent.com/67851555/218065093-5de81cbe-0ece-4259-82d4-f186339c2af4.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
