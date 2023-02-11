@@ -7,7 +7,7 @@
 💡  &nbsp; I’m currently learning and studying open domain question answering and multiple choice question generation.\
 🌱 &nbsp;I am specialize in natural language processing ,machine learning and deep learning.\
 ✍️ &nbsp;In my free time, I like exploring new things on the internet about computer science and playing badminton.\
-✉️ &nbsp;I am looking for rdss and full-time job for software engineer next year. Free to contact me if you are interest in me.
+✉️ &nbsp;I am looking for internship this year and will be looking for rdss and full-time job for software engineer next year. Free to contact me if you are interest in me.
 📄 &nbsp;Please have a look at my [personal website](https://dan890407.github.io/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;skills
