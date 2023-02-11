@@ -3,10 +3,8 @@
 <h2>Hey there! I'm 鄭宇辰 Dan</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;Hi, I am Yu Chen Cheng. I am currently studying at the graduate school of Computer Science and Engineering of National Chung Hsing University.\
-💞️ &nbsp;I’m currently learning and studying open domain question answering and multiple choice question generation.\
+💡 &nbsp;I’m currently learning and studying open domain question answering and multiple choice question generation.\
 🌱 &nbsp;I am specialize in natural language processing ,machine learning and deep learning.\
 ✍️ &nbsp;In my free time, I like exploring new things on the internet about computer science and playing badminton.\
 ✉️ &nbsp;I am looking for rdss and full-time job for software engineer next year. Free to contact me if you are interest in me.
