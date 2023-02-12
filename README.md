@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://dan890407.github.io"><img src="https://img.shields.io/badge/-dan890407.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%E5%AE%87%E8%BE%B0-%E9%84%AD-95903325a/"><img src="https://img.shields.io/badge/-鄭宇辰-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="dan890407@gmail.com"><img src="https://img.shields.io/badge/-dan890407@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dan890407@gmail.com"><img src="https://img.shields.io/badge/-dan890407@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/chengdan0407"><img src="https://img.shields.io/badge/-@dan890407-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
