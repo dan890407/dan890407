@@ -1,7 +1,7 @@
 
 
 <h2>Hi! I'm 鄭宇辰 Dan</h2>
-![image](mypic.jpg)
+![ScreenShot](mypic.jpg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 🎓 &nbsp;Hi, I am Yu Chen Cheng. I am currently studying at the graduate school of Computer Science and Engineering of National Chung Hsing University.\
