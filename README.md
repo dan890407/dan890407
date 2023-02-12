@@ -2,7 +2,7 @@
 
 <h2>Hi! I'm 鄭宇辰 Dan</h2>
 <p>
-    <img src="mypic.jpg" width="600" height="400" />
+    <img src="mypic.jpg" width="450" height="300" />
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
